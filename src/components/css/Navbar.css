@@ -1,0 +1,16 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.navbar img
+{
+    width: 220px;
+}
+.navbar  li a
+{
+    color: #cc1124;
+    font-size: 17px;
+    font-weight: 600;
+}

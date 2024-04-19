@@ -1,0 +1,6 @@
+<div className='main-nav'>
+          <span>Home</span>
+          <span>About us</span>
+          <span>Services</span>
+          <span>Catalogue</span>
+          <span>Contact Us</span>
