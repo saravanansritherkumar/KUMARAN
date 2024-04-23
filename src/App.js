@@ -1,10 +1,9 @@
-import Header from "./components/repeat-components/Header";
-import Navbar from "./components/repeat-components/Navbar";
+
+import Real from "./components/repeat-components/Real"
 function App() {
   return (
     <div className="App">
-      <Header/>
-      <Navbar/>
+      <Real/>
     </div>
   );
 }
